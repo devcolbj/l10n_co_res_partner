@@ -12,7 +12,7 @@
     'images': ['images/main_screenshot.png'],
     'depends': [
         'account',
-        'account_accountant',
+        'account_accountant'
         'base'
     ],
     'data': [],
