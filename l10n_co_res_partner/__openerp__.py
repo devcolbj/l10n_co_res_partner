@@ -11,9 +11,9 @@
                'Contact Module - Odoo 10.0',
     'images': ['images/main_screenshot.png'],
     'depends': [
-        'account'
-        'account_accountant'
-        'base'
+        'account',
+        'account_accountant',
+        'base',
     ],
     'data': [],
     'installable': True,
